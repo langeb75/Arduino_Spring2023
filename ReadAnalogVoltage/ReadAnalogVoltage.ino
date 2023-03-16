@@ -1,6 +1,6 @@
 //Programmer: Mr. Lange
 //Date: 3.16.2023
-//Program: Read Amalog Votages
+//Program: Read Analog Voltages
 
 /*
   ReadAnalogVoltage
